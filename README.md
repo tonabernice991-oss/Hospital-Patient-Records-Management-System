@@ -1,4 +1,4 @@
-# Hospital Patient Records Management System
+![ClipWindowsGIF](https://github.com/user-attachments/assets/d2219824-66cc-4b47-82c1-07fee3611fed)# Hospital Patient Records Management System
 
 ## 📌 Project Overview
 The **Hospital Patient Records Management System** is a database project designed to manage patient information, medical history, and appointments in a hospital environment.  
@@ -54,5 +54,46 @@ Relationships:
 - One Patient → Many MedicalHistory records
 - One Patient → Many Appointments
 - MedicalHistory and Appointment are linked to Patient via patient_id
+
+#### 😌let's ahve an example:
+
+Using MySQL we are going to:
+
+1. Create the database.
+2. Create all required tables with proper constraints.
+3. Insert the provided sample data.
+4. Retrieve patient medical history.
+5. List patients who visited the hospital on a specific date.
+6. Update patient information.
+7. Delete a patient record.
+8. Use JOINs to generate patient reports.
+
+#### 👉click here to view the queries but first download MySQL and run these queries in command prompt:https://1drv.ms/w/c/c6767e1f5b535938/IQDno4Ch1lpURo6D4_wNhpqOAXfIewba7b9hOJADdR3YR64?e=HaYkbd
+
+## 🎯 Project Usefulness
+This project helps hospitals maintain organized and secure patient records.  
+It improves access to medical history, reduces errors, and supports better healthcare delivery.  
+
+For students, it provides **practical experience** working with real hospital data scenarios.
+
+## 🧑‍🎓 Skills Students Will Gain
+
+After completing this project, students will gain:
+- Hospital database system design skills  
+- Experience modeling real-world healthcare data  
+- Ability to create ER diagrams  
+- Knowledge of database normalization (up to 3NF)  
+- Strong SQL skills including JOINs and filtering  
+- Professional GitHub documentation skills  
+
+#### 👤Author:
+TONA
+THANK YOU.
+
+   
+
+
+
+
 
 
