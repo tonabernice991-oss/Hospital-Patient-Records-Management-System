@@ -1,4 +1,4 @@
-![ClipWindowsGIF](https://github.com/user-attachments/assets/d2219824-66cc-4b47-82c1-07fee3611fed)# Hospital Patient Records Management System
+# Hospital Patient Records Management System
 
 ## 📌 Project Overview
 The **Hospital Patient Records Management System** is a database project designed to manage patient information, medical history, and appointments in a hospital environment.  
