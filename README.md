@@ -32,6 +32,7 @@ There is a need for a **centralized electronic database system** to manage patie
 - Reduced duplication and errors  
 
 📄 Database Design
+
 ✅ Why a Relational Database Model is Suitable
 A relational database is ideal for managing hospital patient records because:
 - It enforces data integrity through primary keys, foreign keys, and constraints.
